@@ -1,0 +1,10 @@
+D:\devlop\solr-score\solr-custom-score-master\src\main\java\com\easy\custom\queryparser\MyProvider.java
+D:\devlop\solr-score\solr-custom-score-master\src\main\java\com\easy\custom\tools\ScoreTools.java
+D:\devlop\solr-score\solr-custom-score-master\src\main\java\com\easy\custom\scorealgorithm\impl\GomeMarketCustomScore.java
+D:\devlop\solr-score\solr-custom-score-master\src\main\java\com\easy\custom\handler\MyHandler.java
+D:\devlop\solr-score\solr-custom-score-master\src\main\java\com\easy\custom\queryparser\MyQueryParserPlugin.java
+D:\devlop\solr-score\solr-custom-score-master\src\main\java\com\easy\custom\queryparser\MyQuery.java
+D:\devlop\solr-score\solr-custom-score-master\src\main\java\com\easy\custom\functionquery\MyValueParser.java
+D:\devlop\solr-score\solr-custom-score-master\src\main\java\com\easy\custom\functionquery\FunctionValueSource.java
+D:\devlop\solr-score\solr-custom-score-master\src\main\java\com\easy\custom\scorealgorithm\inter\ScoreAlgorithmInter.java
+D:\devlop\solr-score\solr-custom-score-master\src\main\java\com\easy\custom\queryparser\MyParser.java
